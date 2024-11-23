@@ -1,5 +1,3 @@
-Here’s a README file for your QR Code Generator project, detailing everything from creating a virtual environment to running the project:
-
 ---
 
 # QR Code Generator  
